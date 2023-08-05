@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.destinationContainer {
+  margin: 20px;
+}
+
+.imageStyle {
+  height: 180px;
+  width: 250px;
+}
+
+.destinationName {
+  color: #252627;
+  font-weight: 600;
+}
